@@ -1,4 +1,4 @@
-# imageexplorerg7
+# initapp2
 
 A new Flutter project.
 
